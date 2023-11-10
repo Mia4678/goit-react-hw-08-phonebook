@@ -8,7 +8,7 @@ export const Container = styled.div`
 
 export const Par = styled.p`
   font-weight: 700;
-  color: brown;
+  color: blueviolet;
   font-size: 18px;
 `;
 
@@ -17,9 +17,9 @@ export const Button = styled.button`
   font: inherit;
   cursor: pointer;
   border-radius: 5px 15px;
-  border: 1px solid brown;
+  border: 1px solid blueviolet;
   color: white;
-  background-color: brown;
+  background-color: blueviolet;
   font-size: 20px;
   display: flex;
   align-items: center;
@@ -28,6 +28,6 @@ export const Button = styled.button`
 
   &:hover {
     background-color: white;
-    color: brown;
+    color: blueviolet;
   }
 `;

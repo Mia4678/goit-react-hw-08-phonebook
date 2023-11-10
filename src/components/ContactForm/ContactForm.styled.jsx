@@ -6,7 +6,7 @@ export const Form = styled.form`
   width: 500px;
   padding: 12px;
   background-color: transparent;
-  border: 2px solid brown;
+  border: 2px solid blueviolet;
   border-radius: 5px;
   margin: 0 auto;
 `;
@@ -15,7 +15,7 @@ export const Label = styled.label`
   display: flex;
   flex-direction: column;
   margin-bottom: 15px;
-  color: brown;
+  color: blueviolet;
   font-size: 18px;
 `;
 
@@ -31,15 +31,15 @@ export const Button = styled.button`
   font: inherit;
   cursor: pointer;
   border-radius: 5px;
-  border: 5px solid brown;
-  color: brown;
+  border: 5px solid blueviolet;
+  color: blueviolet;
   font-size: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
 
   &:hover {
-    background-color: brown;
+    background-color: blueviolet;
     color: white
   }
 `;

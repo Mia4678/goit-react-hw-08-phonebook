@@ -19,5 +19,5 @@ export const Input = styled.input`
   padding: 12px;
   margin: 0 auto;
   border-radius: 5px;
-  border: 1px solid brown;
+  border: 1px solid blueviolet;
 `;

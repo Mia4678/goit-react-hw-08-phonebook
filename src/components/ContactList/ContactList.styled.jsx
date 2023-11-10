@@ -7,7 +7,7 @@ export const List = styled.ul`
   width: 600px;
   padding: 12px;
   border-radius: 5px;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: pink;
   border: 2px solid #f08080;
   margin: 0 auto;
 `;
@@ -29,7 +29,7 @@ export const Button = styled.button`
   font: inherit;
   cursor: pointer;
   border-radius: 5px 10px;
-  border: 1px solid brown;
+  border: 1px solid blueviolet;
   display: flex;
   align-items: center;
 

@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+/* bring in normalize.css styles */
 
 body {
   background-color: Pink;
@@ -20,4 +20,5 @@ p,
 li {
   margin: 0;
   padding: 0;
+ 
 }
